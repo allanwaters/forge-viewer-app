@@ -6,9 +6,7 @@
   "start": "node start.js",
   "scripts": {
     "start": "node start.js",
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "grunt dist",
-    "postinstall": "./node_modules/bower/bin/bower install && npm run build"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "allan waters",
   "license": "MIT",
